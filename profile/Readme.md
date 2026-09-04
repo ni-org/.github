@@ -6,12 +6,9 @@
          src="https://raw.githubusercontent.com/ni-org/ni-org.github.io/refs/heads/main/logos/default-long-logo.svg"
          width="50%">
   </picture>
-
-[Ni Project] | [Ni Editor]
 </div>
 
-
-This is the main website for the [Ni Project].
+Welcome to the [Ni Project]:
 
 - [Ni Editor]: Combinatorial editor.
 
