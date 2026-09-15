@@ -7,6 +7,7 @@
          src="https://ni-org.pages.dev/logos/default-long-logo.svg"
          width="50%">
   </picture>
+  <br>
   <a href="https://ni-org.pages.dev" alt="Ni Project Website">Ni Project Website</a>
 </div>
 
